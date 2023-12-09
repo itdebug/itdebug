@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 我是`你康哥啊`
+### 我是`编程哥`
 
 - :dog: 15年毕业，小厂互联网
 
