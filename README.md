@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 我是`编程哥`
 
-- :dog: 15年毕业，小厂互联网
+- :dog: 15年毕业，一直从事互联网开发，参与过Saas、CDP等大型系统开发
 
 ### 今年的努力 ✨
 
